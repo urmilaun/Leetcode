@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/urmilaun/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/urmilaun/Leetcode/tree/master/0027-remove-element) |
 | [0561-array-partition](https://github.com/urmilaun/Leetcode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/urmilaun/Leetcode/tree/master/0792-binary-search) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/urmilaun/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/urmilaun/Leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/urmilaun/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/urmilaun/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/urmilaun/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
