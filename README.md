@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/urmilaun/Leetcode/tree/master/0001-two-sum) |
 | [0561-array-partition](https://github.com/urmilaun/Leetcode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/urmilaun/Leetcode/tree/master/0792-binary-search) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/urmilaun/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/urmilaun/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1651-shuffle-string](https://github.com/urmilaun/Leetcode/tree/master/1651-shuffle-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/urmilaun/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/urmilaun/Leetcode/tree/master/0001-two-sum) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/urmilaun/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/urmilaun/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3227-find-missing-and-repeated-values](https://github.com/urmilaun/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
