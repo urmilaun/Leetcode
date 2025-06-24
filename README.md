@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/urmilaun/Leetcode/tree/master/0344-reverse-string) |
 | [1954-replace-all-digits-with-characters](https://github.com/urmilaun/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/urmilaun/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2401-count-asterisks](https://github.com/urmilaun/Leetcode/tree/master/2401-count-asterisks) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/urmilaun/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Counting
 |  |
