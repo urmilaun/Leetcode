@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/urmilaun/Leetcode/tree/master/0001-two-sum) |
 | [0792-binary-search](https://github.com/urmilaun/Leetcode/tree/master/0792-binary-search) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/urmilaun/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1651-shuffle-string](https://github.com/urmilaun/Leetcode/tree/master/1651-shuffle-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/urmilaun/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3194-find-words-containing-character](https://github.com/urmilaun/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/urmilaun/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/urmilaun/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
 |  |
@@ -57,4 +59,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/urmilaun/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/urmilaun/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/urmilaun/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
