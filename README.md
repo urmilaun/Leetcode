@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/urmilaun/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/urmilaun/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1651-shuffle-string](https://github.com/urmilaun/Leetcode/tree/master/1651-shuffle-string) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/urmilaun/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/urmilaun/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3194-find-words-containing-character](https://github.com/urmilaun/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/urmilaun/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/urmilaun/Leetcode/tree/master/0561-array-partition) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/urmilaun/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Counting Sort
 |  |
 | ------- |
