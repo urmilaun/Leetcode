@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/urmilaun/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/urmilaun/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3194-find-words-containing-character](https://github.com/urmilaun/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/urmilaun/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/urmilaun/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/urmilaun/Leetcode/tree/master/0001-two-sum) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/urmilaun/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/urmilaun/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/urmilaun/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/urmilaun/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
