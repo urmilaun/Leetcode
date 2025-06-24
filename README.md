@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/urmilaun/Leetcode/tree/master/0001-two-sum) |
 | [0792-binary-search](https://github.com/urmilaun/Leetcode/tree/master/0792-binary-search) |
+| [1651-shuffle-string](https://github.com/urmilaun/Leetcode/tree/master/1651-shuffle-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/urmilaun/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3194-find-words-containing-character](https://github.com/urmilaun/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/urmilaun/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/urmilaun/Leetcode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/urmilaun/Leetcode/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/urmilaun/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1651-shuffle-string](https://github.com/urmilaun/Leetcode/tree/master/1651-shuffle-string) |
 | [1954-replace-all-digits-with-characters](https://github.com/urmilaun/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/urmilaun/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2401-count-asterisks](https://github.com/urmilaun/Leetcode/tree/master/2401-count-asterisks) |
