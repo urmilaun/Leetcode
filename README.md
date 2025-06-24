@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/urmilaun/Leetcode/tree/master/0344-reverse-string) |
+| [1078-remove-outermost-parentheses](https://github.com/urmilaun/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1954-replace-all-digits-with-characters](https://github.com/urmilaun/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/urmilaun/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2401-count-asterisks](https://github.com/urmilaun/Leetcode/tree/master/2401-count-asterisks) |
@@ -43,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/urmilaun/Leetcode/tree/master/0344-reverse-string) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/urmilaun/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
