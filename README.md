@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/urmilaun/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1651-shuffle-string](https://github.com/urmilaun/Leetcode/tree/master/1651-shuffle-string) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/urmilaun/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/urmilaun/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/urmilaun/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3194-find-words-containing-character](https://github.com/urmilaun/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/urmilaun/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1954-replace-all-digits-with-characters](https://github.com/urmilaun/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/urmilaun/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/urmilaun/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/urmilaun/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2401-count-asterisks](https://github.com/urmilaun/Leetcode/tree/master/2401-count-asterisks) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/urmilaun/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3194-find-words-containing-character](https://github.com/urmilaun/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0344-reverse-string](https://github.com/urmilaun/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/urmilaun/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/urmilaun/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Stack
 |  |
 | ------- |
