@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/urmilaun/Leetcode/tree/master/0001-two-sum) |
+| [0561-array-partition](https://github.com/urmilaun/Leetcode/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/urmilaun/Leetcode/tree/master/0792-binary-search) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/urmilaun/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1651-shuffle-string](https://github.com/urmilaun/Leetcode/tree/master/1651-shuffle-string) |
@@ -66,5 +67,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/urmilaun/Leetcode/tree/master/0561-array-partition) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/urmilaun/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/urmilaun/Leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/urmilaun/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
