@@ -95,4 +95,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/urmilaun/Leetcode/tree/master/0175-combine-two-tables) |
+| [0196-delete-duplicate-emails](https://github.com/urmilaun/Leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
