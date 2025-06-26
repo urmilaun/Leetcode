@@ -91,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/urmilaun/Leetcode/tree/master/0561-array-partition) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/urmilaun/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
