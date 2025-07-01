@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/urmilaun/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/urmilaun/Leetcode/tree/master/0013-roman-to-integer) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/urmilaun/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/urmilaun/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/urmilaun/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/urmilaun/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/urmilaun/Leetcode/tree/master/0013-roman-to-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/urmilaun/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/urmilaun/Leetcode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/urmilaun/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/urmilaun/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/urmilaun/Leetcode/tree/master/0742-to-lower-case) |
