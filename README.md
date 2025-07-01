@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2401-count-asterisks](https://github.com/urmilaun/Leetcode/tree/master/2401-count-asterisks) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/urmilaun/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3194-find-words-containing-character](https://github.com/urmilaun/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3617-find-the-original-typed-string-i](https://github.com/urmilaun/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Counting
 |  |
 | ------- |
