@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/urmilaun/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3194-find-words-containing-character](https://github.com/urmilaun/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3617-find-the-original-typed-string-i](https://github.com/urmilaun/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/urmilaun/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Counting
 |  |
 | ------- |
@@ -112,4 +113,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/urmilaun/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/urmilaun/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/urmilaun/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
